@@ -62,7 +62,7 @@ h1, h2, h3 {
 #propos, #public, #action, #valeur, #contact, #rejoins, #footer {
     margin-top: 200px;
 }
-img {
+.imageparagraphe img {
   border: 10px solid #2A1673;
 }
 .paragraphe {
